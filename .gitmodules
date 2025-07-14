@@ -1,0 +1,8 @@
+[submodule "addons/sustainability-odoo"]
+	path = addons/sustainability-odoo
+	url = git@github.com:ERPM-BV/sustainability-odoo.git
+	branch = 18.0
+[submodule "addons/sustainability-enterprise"]
+	path = addons/sustainability-enterprise
+	url = git@github.com:ERPM-BV/sustainability-odoo-enterprise.git
+	branch = 18.0
