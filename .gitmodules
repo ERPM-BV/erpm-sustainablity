@@ -6,3 +6,7 @@
 	path = addons/sustainability-enterprise
 	url = git@github.com:ERPM-BV/sustainability-odoo-enterprise.git
 	branch = 18.0
+[submodule "addons/mis-builder"]
+	path = addons/mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 18.0
